@@ -1,0 +1,23 @@
+{
+  "name": "testingnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xandorclegane/TestingNodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xandorclegane/TestingNodeJs/issues"
+  },
+  "homepage": "https://github.com/xandorclegane/TestingNodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
